@@ -1,0 +1,12 @@
+body {
+   background-image: url("../images/LOTR.png");
+   background-size: cover;
+   font-family: 'Bilbo', cursive;
+   font-weight: bold;
+}
+
+h1 {
+   font-size: 34px;
+   margin: auto;
+}
+
